@@ -1,0 +1,6 @@
+{
+    "name": "NFT Test1",
+    "description": "Description1",
+    "image": "ipfs://Qmez95JyuKM341LTjB6DCDGUX4qgWFmKRrf2VV2UCgZo8Q/1.png",
+    "attributes": [{"trait_type": "key", "value": "Test1"}]
+}
